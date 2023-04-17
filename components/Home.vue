@@ -1,6 +1,6 @@
 <template>
-  <div class="bg-white py-24">
-    <div class="mx-auto max-w-7xl border">
+  <div class="bg-white py-24 px-3">
+    <div class="mx-auto max-w-7xl border rounded-2xl">
       <div class="mx-auto lg:mx-0">
         <h2 class="text-lg leading-8 text-gray-600 border-b p-4">
           We have found 1700 emails for Dunder Mifflin Paper in our database
